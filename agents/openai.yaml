@@ -1,0 +1,7 @@
+interface:
+  display_name: "Liuyao Three Coin"
+  short_description: "Six-line three-coin divination workflow"
+  default_prompt: "Use $liuyao-three-coin to parse my six tosses and return a physically ordered liuyao reading."
+
+policy:
+  allow_implicit_invocation: true
